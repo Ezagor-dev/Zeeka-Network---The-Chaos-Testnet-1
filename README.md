@@ -133,6 +133,12 @@ bazuka node --listen 0.0.0.0:8765 --external 123.456.789:8765 \
 
 ![image](https://user-images.githubusercontent.com/45847677/197016098-0f31a12a-ec98-4e64-864f-aeeb58d7c2ab.png)
 
+## Node kurdum ama çalışıyor mu:
+
+* Screen içerisindeyken,  ```bazuka status``` komutunu çalıştırın.
+
 
 ## ps:
 * Sorunuz olursa discord üzerinden ya da telegram üzerinden bana ya da grup üzerinden arkadaşlara sorabilirsiniz. 
+
+* Explorer takibi için : http://152.228.155.120:8000/?page=1 linki kullanılabilir.
