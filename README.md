@@ -137,6 +137,18 @@ bazuka node --listen 0.0.0.0:8765 --external 123.456.789:8765 \
 
 * Screen içerisindeyken,  ```bazuka status``` komutunu çalıştırın.
 
+## Komutlar:
+
+* ``` bazuka deposit``` - Deposit 
+* ``` bazuka help``` - Prints this message or the help of the given subcommand(s)
+* ``` bazuka init``` - Initialize node/wallet
+* ``` bazuka node``` - Run node
+* ``` bazuka rsend``` - Send funds through a regular-transaction
+* ``` bazuka status``` - Get status of a node ```
+* ``` bazuka withdraw``` - Withdraw funds from a Zero-Contract
+* ``` bazuka zsend``` - Send funds through a zero-transaction
+
+
 
 ## ps:
 * Sorunuz olursa discord üzerinden ya da telegram üzerinden bana ya da grup üzerinden arkadaşlara sorabilirsiniz. 
